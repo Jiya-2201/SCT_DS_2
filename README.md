@@ -51,10 +51,14 @@ SCT_DS_2/
 ---
 
 ## 📊 Sample Visualizations
-- **Survival Distribution**
-- **Age Histogram**
-- **Passenger Class Countplot**
-- **Fare Distribution**
+<img width="729" height="669" alt="Screenshot 2025-08-28 185205" src="https://github.com/user-attachments/assets/7aa90322-c798-4b8f-addc-0aa8939ac6cd" />
+<img width="725" height="640" alt="Screenshot 2025-08-28 185155" src="https://github.com/user-attachments/assets/c089c39a-90c1-4006-a54d-d1870d03b850" />
+<img width="759" height="656" alt="Screenshot 2025-08-28 185146" src="https://github.com/user-attachments/assets/4ba3c80e-0ae6-4aff-bf3f-e9aaba0d697a" />
+<img width="932" height="796" alt="Screenshot 2025-08-28 185138" src="https://github.com/user-attachments/assets/ab7088ae-ef49-4460-b688-0ab4520d09b1" />
+<img width="1053" height="647" alt="Screenshot 2025-08-28 185122" src="https://github.com/user-attachments/assets/133c2973-4507-4751-9dd3-66adc751e28a" />
+<img width="1819" height="845" alt="Screenshot 2025-08-28 185106" src="https://github.com/user-attachments/assets/932b43ac-1629-4582-8e30-9256eaf4fd4c" />
+
+
 
 ---
 
